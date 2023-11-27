@@ -1,6 +1,5 @@
 package BookManagement;
-
-import java.time.LocalDate;
+import People.*;
 
 public interface Management {
 

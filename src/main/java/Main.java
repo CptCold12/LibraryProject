@@ -1,10 +1,11 @@
-import java.time.LocalDate;
+import BookManagement.Book;
+import People.*;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        Student student1 = new Student("Lily Song", 10873493L);
+        Student student1 = new Student("Random Person", 10873493L);
         GeneralPublic pub1 = new GeneralPublic("Cameron Briginshaw", 998766522L);
 
         Book book1 = new Book("1984",88177396L, "Dystopian");

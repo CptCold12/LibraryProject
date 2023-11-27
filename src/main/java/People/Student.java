@@ -1,4 +1,8 @@
-public class Student extends Person{
+package People;
+
+import People.Person;
+
+public class Student extends Person {
 
 
     public Student (String name, long UUID){

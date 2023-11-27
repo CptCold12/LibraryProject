@@ -1,3 +1,7 @@
+package People;
+
+import People.Person;
+
 public class GeneralPublic extends Person {
 
     public GeneralPublic (String name, long UUID) {
