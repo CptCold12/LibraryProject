@@ -1,6 +1,8 @@
+package BookManagement;
+
 import java.time.LocalDate;
 
-public class Book implements Management{
+public class Book implements Management {
 
     private boolean borrowed = false;
     private long UUID;
